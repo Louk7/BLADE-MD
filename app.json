@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Alexdavid"
+      "value": "Loukson"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -88,11 +88,11 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,blade-md,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "blade-md"
+     "value": "NARUTO"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
@@ -101,11 +101,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "ALEXTV:"
+    "value": "Loukson"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "BLADE-MD"
+    "value": "LOUKSON UZUMAKI"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
